@@ -5,6 +5,8 @@ NOTE : There are two separate branches for [Frontend](https://github.com/azyzz22
 
 Crafted with 💙 for [Pitt's Challenge 2021](https://pitt-challenge-2021.devpost.com)
 
+Link to the demo video on Devpost https://devpost.com/software/sheerai
+
 
 
 ---
